@@ -27,7 +27,7 @@ if upload_notes:
         pdf_path = tmp_file.name
 
     # Load PDF
-    loader = PyPDFLoader("SETnotes.pdf")
+    loader = PyPDFLoader(pdf_path)
     docs = loader.load()
 
     # Split text
