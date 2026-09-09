@@ -1,4 +1,4 @@
-# EduGuide
+# EduBuddy
 # Edu Buddy - PDF Question Answering Chatbot
 
 ## Overview
